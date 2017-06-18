@@ -1,3 +1,5 @@
-# My Awesome Book
+# coo 参考手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+github地址：
+coo: https://github.com/Jnoee/coo
+coo.boot: https://github.com/Jnoee/coo.boot
