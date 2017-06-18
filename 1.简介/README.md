@@ -1,7 +1,9 @@
-# coo 参考手册
+coo 参考手册
+======
 
-github地址：
+coo框架在github上的地址：[coo][]
 
-coo: https://github.com/Jnoee/coo
+coo脚手架在github上的地址：[coo.boot][]
 
-coo.boot: https://github.com/Jnoee/coo.boot
+[coo]: https://github.com/Jnoee/coo
+[coo.boot]: https://github.com/Jnoee/coo.boot
