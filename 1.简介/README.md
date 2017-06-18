@@ -1,9 +1,3 @@
-coo 参考手册
-======
+# 1. 框架简介
 
-coo框架在github上的地址：[coo][]
-
-coo脚手架在github上的地址：[coo.boot][]
-
-[coo]: https://github.com/Jnoee/coo
-[coo.boot]: https://github.com/Jnoee/coo.boot
+这一章节主要介绍coo框架产生的背景、由哪些子模块构成、子模块之间的依赖关系。
